@@ -1,0 +1,22 @@
+# Raw StatsBomb/Hudl open-data dump — do not commit, redistribute via their repo instead
+open-data/
+data/matches/
+data/events/
+data/lineups/
+data/three-sixty/
+data/competitions.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Large local scratch files (keep only the final exports)
+*.csv
+!data/messi_input_data.xlsx
