@@ -3,8 +3,7 @@
 An animated heatmap tracing Lionel Messi's on-pitch positioning across his entire tracked career: Barcelona, PSG, Argentina (World Cups & Copa América), and his first season at Inter Miami (MLS).
 
 23 real seasons/tournaments, 4 of them split into first/second halves for finer resolution, giving 27 total frames smoothly morphed together.
-
-![Messi Heatmap preview](outputs/gif/messi_heatmap_vertical.gif)
+![Messi Heatmap preview](output/gif/messi_heatmap_vertical.gif)
 
 Full quality video: [messi_heatmap_vertical.mp4](output/video/messi_heatmap_vertical.mp4)
 
